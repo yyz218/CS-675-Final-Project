@@ -1,2 +1,5 @@
 # CS-675-Final-Project
-Download the COCO dataset and run the code by JupyterNotebook
+Run Downloading_COCO.ipynb in Colab. This will load all the necessary dataset for this project. 
+After finishing running, the dataset is shown in Files on the left. 
+Download all the files to your local computer. 
+Run MLFP_code.ipynb
