@@ -1,2 +1,2 @@
 # CS-675-Final-Project
-run the code by JupyterNotebook
+Download the COCO dataset and run the code by JupyterNotebook
